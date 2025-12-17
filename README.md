@@ -21,7 +21,7 @@ No uploads. No servers. Everything runs locally in your browser.
 ## 🚀 Live Demo
 
 **Hostek deployment:**  
-👉 https://webhtml5.info/suno-mp3-chainer/
+👉 https://webhtml5.info/mp3-stitcher/
 
 *(Also works on GitHub Pages)*
 
